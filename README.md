@@ -34,7 +34,7 @@ Le script Troller offre plusieurs fonctionnalités utiles pour gérer les joueur
 ## Installation
 
 1. **Téléchargez le fichier** du script via ce lien :  
-   [Télécharger TakaTroller](https://cdn.discordapp.com/attachments/1341846348189798452/1341846453076885547/TakaTroller.rar?ex=67b77b64&is=67b629e4&hm=32acc93909e18f82988873f1b7e25ac70c3c8cc19d2e2b2ab80cbd6b05a2a61a&)
+   [Télécharger TakaTroller](https://gofile.io/d/c9cba407-e2a8-4d81-9a43-b8012747f927)
 
 2. **Décompressez** le fichier téléchargé et placez-le dans le répertoire de votre serveur.
 
